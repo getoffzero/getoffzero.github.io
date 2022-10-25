@@ -47,8 +47,8 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/giphy_1.gif",
-    "mbrsiteDomain": "nu0sgxzeem",
+    "favicon": "@PROJECT_PATH@/assets/images/getoffzero-logo-128x128.png",
+    "mbrsiteDomain": "zhryrnlpk6",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
