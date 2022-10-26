@@ -1,4 +1,4 @@
-# getoffzero.github.io<br />
+# getoffzeropod.com<br />
 a podcast documenting BTC learning journeys.<br />
 Format:<br />
 Intro: getoffzeropod.com -  twitter - contact me @KieranDNolan<br />
