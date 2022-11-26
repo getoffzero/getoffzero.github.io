@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "#getoffzero",
-    "currentPage": "v4v.html",
+    "currentPage": "dcalearn.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1060,7 +1060,7 @@
         }
       ]
     },
-    "page2.html": {
+    "dcalearn.html": {
       "settings": {
         "title": "dcalearn",
         "order": 1
