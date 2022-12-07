@@ -7,6 +7,7 @@ Tell us about yourself, what you are working on etc<br />
 Did you question Money before you heard about Bitcoin? (eg: zeitgeist film)<br />
 When did you first hear about Bitcoin? (year/place/how etc)<br />
 Get off Zero origin story (eg researching UBI)<br />
+Get off Zero Shitcoin? <br />
 Get off Zero DCA? (amber promo)<br />
 Get off Zero Custody?<br />
 Get off Zero Signing Devices/Hardware Wallets?<br />
