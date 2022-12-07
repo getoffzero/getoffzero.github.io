@@ -1036,7 +1036,7 @@ a {
   }
 }
 .cid-tlf5CCXQIZ {
-  background-image: url("../../../assets/images/giphy-3.gif");
+  background-image: url("../../../assets/images/giphy-23.gif");
 }
 .cid-tlf5CCXQIZ .mbr-text,
 .cid-tlf5CCXQIZ .mbr-section-btn {
@@ -1085,6 +1085,104 @@ a {
 .cid-tlf5CCXQIZ .mbr-section-title {
   color: #ffffff;
   text-align: right;
+}
+.cid-tphRDf9lsB {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.cid-tphRDf9lsB .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-tphRDf9lsB .btn {
+  font-size: 16px;
+  padding: 0.5rem 2rem;
+}
+.cid-tphRDf9lsB .btn-primary-outline {
+  border: none;
+  color: gray;
+}
+.cid-tphRDf9lsB .btn-primary-outline:active {
+  color: gray;
+}
+.cid-tphRDf9lsB .btn-primary-outline:hover {
+  color: white;
+}
+.cid-tphRDf9lsB .mbr-gallery-title:before {
+  border-radius: 0px 0px 10px 10px;
+}
+.cid-tphRDf9lsB div {
+  overflow: hidden;
+}
+.cid-tphRDf9lsB li.active .btn-primary-outline {
+  color: white;
+}
+.cid-tphRDf9lsB .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tphRDf9lsB .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-tphRDf9lsB .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-tphRDf9lsB .mbr-gallery-item {
+  overflow: hidden;
+}
+.cid-tphRDf9lsB .mbr-gallery-item img {
+  transition: all 0.3s;
+  border-radius: 10px;
+}
+.cid-tphRDf9lsB .mbr-gallery-filter {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.cid-tphRDf9lsB .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  background: #232323;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-tphRDf9lsB .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-tphRDf9lsB .mbr-gallery-item > div:hover:before {
+  opacity: 0.6 !important;
+}
+.cid-tphRDf9lsB .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-tphRDf9lsB .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #232323 !important;
+  opacity: 0.6;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-tll0JUW4Fe {
   z-index: 1000;
