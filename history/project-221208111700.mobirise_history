@@ -739,19 +739,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2022119-1527252022-11-5-16-9-49.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/6OQ-SWqsNyA",
-                "image": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-1-733x396.png",
-                "thumb": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-1-733x396-733x396.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": true
               }
             ]
