@@ -759,13 +759,26 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202308-1219352023-0-0-12-20-34.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=I3N_8YRmh6o",
+                "image": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-1-737x415.png",
+                "thumb": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-1-737x415-737x415.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023011-1334552023-0-3-13-35-32.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/k4bx1cCtDxc",
                 "image": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-737x415.png",
                 "thumb": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-737x415-737x415.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
