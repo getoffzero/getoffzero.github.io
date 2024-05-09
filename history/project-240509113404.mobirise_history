@@ -64,8 +64,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "uniqCompNum": 13,
     "versionPublish": "5.9.18",
-    "screenshot": "screenshot.png",
-    "publishEditFolder": true
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -899,9 +898,7 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         }
       ]
     },

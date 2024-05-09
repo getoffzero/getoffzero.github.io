@@ -65,7 +65,8 @@
     "uniqCompNum": 13,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "publishEditFolder": true
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -864,10 +865,10 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-4-5-13-19-20.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2024-4-5_13-19-20.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/vMkuSxSN38M",
-                "image": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-737x415.png",
+                "image": "@PROJECT_PATH@/assets/images/getoffzero%20-%20temmplate%20for%20thumbnail-737x415.png",
                 "thumb": "@PROJECT_PATH@/assets/images/getoffzero-temmplate-for-thumbnail-737x415-737x415.png",
                 "alt": "",
                 "title": "",
@@ -899,9 +900,7 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         }
       ]
     },
